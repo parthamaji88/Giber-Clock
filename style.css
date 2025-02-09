@@ -15,7 +15,7 @@ body {
 
 .clock {
     border: 1px solid #3f3f3f;
-    padding: 10px;
+    padding: 5px;
     min-width: auto;
     white-space: pre;
     letter-spacing: 4px;
